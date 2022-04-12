@@ -35,3 +35,7 @@
 .cat3{
     background-image: linear-gradient(to right,rgb(181, 2, 181),rgb(246, 0, 246));
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}

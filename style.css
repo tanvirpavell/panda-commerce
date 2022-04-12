@@ -23,7 +23,7 @@
 }
 .cat1,.cat2,.cat3{
     padding: 10px 40px;
-    border-radius: 10px;
+    border-radius: 20px;
     color: rgb(234, 232, 232);
 }
 .cat1{
@@ -38,8 +38,15 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
 }
 .card-footer{
     border-top: none;
     background-color: white;
+}
+#Contact{
+    height: 250px;
+}
+#Contact h6{
+    color: gray;
 }
